@@ -1,6 +1,7 @@
 {
   "name": "mentoria-testes-desafio-4-turma-1",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "start": "node index.js",
     "test": "nyc mocha"
